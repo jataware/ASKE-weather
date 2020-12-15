@@ -18,7 +18,7 @@ All material contained in this report is in the public domain and may be used an
 
 - origin_state_abr: Two letter abbreviation of departure city (string)
 
-- origin_admin2: US-only, State of departure (string)
+- origin_admin2: US-only, State of departure airport (string)
 
 - origin_fips: US-only, 5-digit county FIPS code of the departure airport (string)
 
@@ -34,7 +34,7 @@ All material contained in this report is in the public domain and may be used an
 
 - dest_state_abr: Two letter abbreviation of arrival city in ISO 3166-1 alpha-2 standard (string)
 
-- dest_admin2: US-only, State of arrival (string)
+- dest_admin2: US-only, State of arrival airport (string)
 
 - dest_fips: US-only, 5-digit county FIPS code of the arrival airport (string)
 
